@@ -265,4 +265,4 @@ $$
 
 $$ 
 h = \left(\frac{p_1}{ρg} + z_1\right) - \left(\frac{p_2}{ρg} + z_2\right) = x\left[1 -\frac{S_l}{S_o}\right] \qquad \qquad \qquad ...equ(11)
-$$
+$$<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
