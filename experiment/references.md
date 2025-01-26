@@ -1,6 +1,6 @@
-
-
-<p>1. Fluid Mechanics By R. K. Bansal </p>
-<p>2. Fluid Mechanics: Fundamentals and Applications by John. M. Cimbala Yunus A. Cengel </p>
-<p>3. Fluid Mechanics: Fundamentals and Applications by Yunus Cengel </p>
-<p>4. Fluid Mechanics by Frank M. White  </p>
+1. A Textbook Of Heat And Mass Transfer  by R. K. Rajput S. Chand Publication
+2. Heat Transfer by D. S. Pavaskar Nishant Publication
+3. Heat Transfer by Yunus A Çengel
+4. Heat & Mass Transfer by Arora & Domkundwar, Dhanpat rai and Co.,   NewDelh
+5. Heat & Mass Transfer by P.K. Nag, Tata McGraw Hill, New Delhi.
+6. Fundamental of Heat and Transfer Incropera and Dewitt John Wiley and Sons
