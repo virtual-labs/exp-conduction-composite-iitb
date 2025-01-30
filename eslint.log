@@ -1,0 +1,513 @@
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/js/activity1.js
+   19:24   warning  'MathJax' is not defined                       no-undef
+   22:10   warning  'Verify_act1' is defined but never used        no-unused-vars
+   27:20   warning  'get_collapse_btn_text' is not defined         no-undef
+   32:59   warning  't1_pipe_temp' is not defined                  no-undef
+   32:135  warning  'inside_diameter_pipe' is not defined          no-undef
+   32:194  warning  'k_steel' is not defined                       no-undef
+   32:227  warning  'thickness_pipe' is not defined                no-undef
+   32:331  warning  'pipe_insulator1_thickness' is not defined     no-undef
+   32:364  warning  'pipe_insulator2_thickness' is not defined     no-undef
+   32:438  warning  'pipe_insulator1_conductivity' is not defined  no-undef
+   32:478  warning  'pipe_insulator2_conductivity' is not defined  no-undef
+   32:557  warning  'inside_htc_pipe' is not defined               no-undef
+   32:639  warning  'outside_htc_pipe' is not defined              no-undef
+   32:721  warning  't2' is not defined                            no-undef
+   34:44   warning  'pipe_length' is not defined                   no-undef
+   52:5    warning  'hide_all_steps' is not defined                no-undef
+   53:24   warning  'show_step' is not defined                     no-undef
+   54:24   warning  'MathJax' is not defined                       no-undef
+   57:10   warning  'sol1' is defined but never used               no-unused-vars
+   62:20   warning  'get_collapse_btn_text' is not defined         no-undef
+   74:63   warning  'inside_htc_pipe' is not defined               no-undef
+   96:5    warning  'pipe_r_1' is not defined                      no-undef
+   96:17   warning  'inside_diameter_pipe' is not defined          no-undef
+   97:5    warning  'pipe_R_1' is not defined                      no-undef
+   97:21   warning  'inside_diameter_pipe' is not defined          no-undef
+   97:59   warning  'pipe_r_1' is not defined                      no-undef
+   97:70   warning  'pipe_length' is not defined                   no-undef
+   99:5    warning  'hide_all_steps' is not defined                no-undef
+  100:24   warning  'show_step' is not defined                     no-undef
+  101:24   warning  'MathJax' is not defined                       no-undef
+  104:10   warning  'verify_sol1' is defined but never used        no-unused-vars
+  106:17   warning  'pipe_R_1' is not defined                      no-undef
+  109:10   warning  'verify_values' is not defined                 no-undef
+  109:48   warning  'pipe_R_1' is not defined                      no-undef
+  115:25   warning  'pipe_R_1' is not defined                      no-undef
+  121:20   warning  'get_collapse_btn_text' is not defined         no-undef
+  153:5    warning  'pipe_r_2' is not defined                      no-undef
+  153:16   warning  'pipe_r_1' is not defined                      no-undef
+  153:27   warning  'thickness_pipe' is not defined                no-undef
+  154:5    warning  'pipe_R_2' is not defined                      no-undef
+  154:25   warning  'pipe_r_2' is not defined                      no-undef
+  154:36   warning  'pipe_r_1' is not defined                      no-undef
+  154:63   warning  'pipe_length' is not defined                   no-undef
+  154:77   warning  'k_steel' is not defined                       no-undef
+  156:5    warning  'hide_all_steps' is not defined                no-undef
+  157:24   warning  'show_step' is not defined                     no-undef
+  158:24   warning  'MathJax' is not defined                       no-undef
+  160:10   warning  'verify_sol2' is defined but never used        no-unused-vars
+  162:17   warning  'pipe_R_2' is not defined                      no-undef
+  165:10   warning  'verify_values' is not defined                 no-undef
+  165:48   warning  'pipe_R_2' is not defined                      no-undef
+  171:25   warning  'pipe_R_2' is not defined                      no-undef
+  177:20   warning  'get_collapse_btn_text' is not defined         no-undef
+  210:5    warning  'pipe_r_3' is not defined                      no-undef
+  210:16   warning  'pipe_r_2' is not defined                      no-undef
+  210:27   warning  'pipe_insulator1_thickness' is not defined     no-undef
+  211:5    warning  'pipe_R_3' is not defined                      no-undef
+  211:25   warning  'pipe_r_3' is not defined                      no-undef
+  211:36   warning  'pipe_r_2' is not defined                      no-undef
+  211:63   warning  'pipe_length' is not defined                   no-undef
+  211:77   warning  'pipe_insulator1_conductivity' is not defined  no-undef
+  213:5    warning  'hide_all_steps' is not defined                no-undef
+  214:24   warning  'show_step' is not defined                     no-undef
+  215:24   warning  'MathJax' is not defined                       no-undef
+  217:10   warning  'verify_sol3' is defined but never used        no-unused-vars
+  219:17   warning  'pipe_R_3' is not defined                      no-undef
+  222:10   warning  'verify_values' is not defined                 no-undef
+  222:48   warning  'pipe_R_3' is not defined                      no-undef
+  228:25   warning  'pipe_R_3' is not defined                      no-undef
+  234:20   warning  'get_collapse_btn_text' is not defined         no-undef
+  267:5    warning  'pipe_r_4' is not defined                      no-undef
+  267:16   warning  'pipe_r_3' is not defined                      no-undef
+  267:27   warning  'pipe_insulator2_thickness' is not defined     no-undef
+  268:5    warning  'pipe_R_4' is not defined                      no-undef
+  268:25   warning  'pipe_r_4' is not defined                      no-undef
+  268:36   warning  'pipe_r_3' is not defined                      no-undef
+  268:63   warning  'pipe_length' is not defined                   no-undef
+  268:77   warning  'pipe_insulator2_conductivity' is not defined  no-undef
+  270:5    warning  'hide_all_steps' is not defined                no-undef
+  271:24   warning  'show_step' is not defined                     no-undef
+  272:24   warning  'MathJax' is not defined                       no-undef
+  274:10   warning  'verify_sol4' is defined but never used        no-unused-vars
+  276:17   warning  'pipe_R_4' is not defined                      no-undef
+  279:10   warning  'verify_values' is not defined                 no-undef
+  279:48   warning  'pipe_R_4' is not defined                      no-undef
+  285:25   warning  'pipe_R_4' is not defined                      no-undef
+  291:20   warning  'get_collapse_btn_text' is not defined         no-undef
+  310:35   warning  'pipe_r_4' is not defined                      no-undef
+  325:5    warning  'pipe_R_5' is not defined                      no-undef
+  325:21   warning  'outside_htc_pipe' is not defined              no-undef
+  325:50   warning  'pipe_r_4' is not defined                      no-undef
+  325:61   warning  'pipe_length' is not defined                   no-undef
+  327:5    warning  'hide_all_steps' is not defined                no-undef
+  328:24   warning  'show_step' is not defined                     no-undef
+  329:24   warning  'MathJax' is not defined                       no-undef
+  331:10   warning  'verify_sol5' is defined but never used        no-unused-vars
+  333:17   warning  'pipe_R_5' is not defined                      no-undef
+  336:10   warning  'verify_values' is not defined                 no-undef
+  336:48   warning  'pipe_R_5' is not defined                      no-undef
+  342:25   warning  'pipe_R_5' is not defined                      no-undef
+  348:20   warning  'get_collapse_btn_text' is not defined         no-undef
+  371:34   warning  'pipe_R_1' is not defined                      no-undef
+  377:34   warning  'pipe_R_2' is not defined                      no-undef
+  383:34   warning  'pipe_R_3' is not defined                      no-undef
+  389:34   warning  'pipe_R_4' is not defined                      no-undef
+  395:34   warning  'pipe_R_5' is not defined                      no-undef
+  443:5    warning  'pipe_R_T' is not defined                      no-undef
+  443:16   warning  'pipe_R_1' is not defined                      no-undef
+  443:27   warning  'pipe_R_2' is not defined                      no-undef
+  443:38   warning  'pipe_R_3' is not defined                      no-undef
+  443:49   warning  'pipe_R_4' is not defined                      no-undef
+  443:60   warning  'pipe_R_5' is not defined                      no-undef
+  444:5    warning  'Q_pipe' is not defined                        no-undef
+  444:15   warning  't1_pipe_temp' is not defined                  no-undef
+  444:30   warning  't2' is not defined                            no-undef
+  444:36   warning  'pipe_R_T' is not defined                      no-undef
+  445:5    warning  'T_s_pipe' is not defined                      no-undef
+  445:17   warning  'Q_pipe' is not defined                        no-undef
+  445:26   warning  'pipe_R_5' is not defined                      no-undef
+  445:38   warning  't2' is not defined                            no-undef
+  447:5    warning  'hide_all_steps' is not defined                no-undef
+  448:24   warning  'show_step' is not defined                     no-undef
+  449:24   warning  'MathJax' is not defined                       no-undef
+  451:10   warning  'verify_sol6' is defined but never used        no-unused-vars
+  453:26   warning  'Q_pipe' is not defined                        no-undef
+  453:46   warning  'T_s_pipe' is not defined                      no-undef
+  458:10   warning  'verify_values' is not defined                 no-undef
+  458:48   warning  'Q_pipe' is not defined                        no-undef
+  462:10   warning  'verify_values' is not defined                 no-undef
+  462:48   warning  'T_s_pipe' is not defined                      no-undef
+  468:25   warning  'Q_pipe' is not defined                        no-undef
+  470:25   warning  'T_s_pipe' is not defined                      no-undef
+  473:5    warning  'activity2' is not defined                     no-undef
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/js/activity2.js
+    1:10   warning  'activity2' is defined but never used            no-unused-vars
+   17:5    warning  'maindiv' is not defined                         no-undef
+   18:24   warning  'MathJax' is not defined                         no-undef
+   21:10   warning  'Verify_act2' is defined but never used          no-unused-vars
+   26:20   warning  'get_collapse_btn_text' is not defined           no-undef
+   31:81   warning  'inside_diameter_sphere' is not defined          no-undef
+   31:113  warning  't1_sphere_temp' is not defined                  no-undef
+   31:156  warning  'thickness_sphere' is not defined                no-undef
+   31:212  warning  'k_steel' is not defined                         no-undef
+   31:315  warning  'sphere_insulator1_thickness' is not defined     no-undef
+   31:351  warning  'sphere_insulator2_thickness' is not defined     no-undef
+   31:434  warning  'sphere_insulator1_conductivity' is not defined  no-undef
+   31:476  warning  'sphere_insulator2_conductivity' is not defined  no-undef
+   31:558  warning  'outside_htc_sphere' is not defined              no-undef
+   31:630  warning  't2' is not defined                              no-undef
+   50:5    warning  'maindiv' is not defined                         no-undef
+   51:5    warning  'hide_all_steps' is not defined                  no-undef
+   52:24   warning  'show_step' is not defined                       no-undef
+   53:24   warning  'MathJax' is not defined                         no-undef
+   56:10   warning  'a2_sol2' is defined but never used              no-unused-vars
+   57:20   warning  'get_collapse_btn_text' is not defined           no-undef
+   90:5    warning  'sphere_r_2' is not defined                      no-undef
+   90:19   warning  'inside_diameter_sphere' is not defined          no-undef
+   90:56   warning  'thickness_sphere' is not defined                no-undef
+   91:5    warning  'sphere_R_2' is not defined                      no-undef
+   91:27   warning  'sphere_r_2' is not defined                      no-undef
+   91:40   warning  'sphere_r_1' is not defined                      no-undef
+   91:69   warning  'k_steel' is not defined                         no-undef
+   91:79   warning  'sphere_r_1' is not defined                      no-undef
+   91:92   warning  'sphere_r_2' is not defined                      no-undef
+   92:5    warning  'maindiv' is not defined                         no-undef
+   93:5    warning  'hide_all_steps' is not defined                  no-undef
+   94:24   warning  'show_step' is not defined                       no-undef
+   95:24   warning  'MathJax' is not defined                         no-undef
+   97:10   warning  'verify2_sol2' is defined but never used         no-unused-vars
+   99:17   warning  'sphere_R_2' is not defined                      no-undef
+  102:10   warning  'verify_values' is not defined                   no-undef
+  102:48   warning  'sphere_R_2' is not defined                      no-undef
+  108:25   warning  'sphere_R_2' is not defined                      no-undef
+  114:20   warning  'get_collapse_btn_text' is not defined           no-undef
+  147:5    warning  'sphere_r_3' is not defined                      no-undef
+  147:18   warning  'sphere_r_2' is not defined                      no-undef
+  147:31   warning  'sphere_insulator1_thickness' is not defined     no-undef
+  148:5    warning  'sphere_R_3' is not defined                      no-undef
+  148:19   warning  'sphere_r_3' is not defined                      no-undef
+  148:32   warning  'sphere_r_2' is not defined                      no-undef
+  148:61   warning  'sphere_insulator1_conductivity' is not defined  no-undef
+  148:94   warning  'sphere_r_3' is not defined                      no-undef
+  148:107  warning  'sphere_r_2' is not defined                      no-undef
+  149:5    warning  'maindiv' is not defined                         no-undef
+  150:5    warning  'hide_all_steps' is not defined                  no-undef
+  151:24   warning  'show_step' is not defined                       no-undef
+  152:24   warning  'MathJax' is not defined                         no-undef
+  154:10   warning  'verify2_sol3' is defined but never used         no-unused-vars
+  156:17   warning  'sphere_R_3' is not defined                      no-undef
+  159:10   warning  'verify_values' is not defined                   no-undef
+  159:48   warning  'sphere_R_3' is not defined                      no-undef
+  165:25   warning  'sphere_R_3' is not defined                      no-undef
+  171:20   warning  'get_collapse_btn_text' is not defined           no-undef
+  204:5    warning  'sphere_r_4' is not defined                      no-undef
+  204:18   warning  'sphere_r_3' is not defined                      no-undef
+  204:31   warning  'sphere_insulator2_thickness' is not defined     no-undef
+  205:5    warning  'sphere_R_4' is not defined                      no-undef
+  205:19   warning  'sphere_r_4' is not defined                      no-undef
+  205:32   warning  'sphere_r_3' is not defined                      no-undef
+  205:61   warning  'sphere_insulator2_conductivity' is not defined  no-undef
+  205:94   warning  'sphere_r_4' is not defined                      no-undef
+  205:107  warning  'sphere_r_3' is not defined                      no-undef
+  206:5    warning  'maindiv' is not defined                         no-undef
+  207:5    warning  'hide_all_steps' is not defined                  no-undef
+  208:24   warning  'show_step' is not defined                       no-undef
+  209:24   warning  'MathJax' is not defined                         no-undef
+  211:10   warning  'verify2_sol4' is defined but never used         no-unused-vars
+  213:17   warning  'sphere_R_4' is not defined                      no-undef
+  216:10   warning  'verify_values' is not defined                   no-undef
+  216:48   warning  'sphere_R_4' is not defined                      no-undef
+  222:25   warning  'sphere_R_4' is not defined                      no-undef
+  228:20   warning  'get_collapse_btn_text' is not defined           no-undef
+  247:35   warning  'sphere_r_4' is not defined                      no-undef
+  262:5    warning  'sphere_R_5' is not defined                      no-undef
+  262:23   warning  'outside_htc_sphere' is not defined              no-undef
+  262:54   warning  'sphere_r_4' is not defined                      no-undef
+  262:67   warning  'sphere_length' is not defined                   no-undef
+  263:5    warning  'maindiv' is not defined                         no-undef
+  264:5    warning  'hide_all_steps' is not defined                  no-undef
+  265:24   warning  'show_step' is not defined                       no-undef
+  266:24   warning  'MathJax' is not defined                         no-undef
+  268:10   warning  'verify2_sol5' is defined but never used         no-unused-vars
+  270:17   warning  'sphere_R_5' is not defined                      no-undef
+  273:10   warning  'verify_values' is not defined                   no-undef
+  273:48   warning  'sphere_R_5' is not defined                      no-undef
+  279:25   warning  'sphere_R_5' is not defined                      no-undef
+  285:20   warning  'get_collapse_btn_text' is not defined           no-undef
+  308:34   warning  'sphere_R_2' is not defined                      no-undef
+  314:34   warning  'sphere_R_3' is not defined                      no-undef
+  320:34   warning  'sphere_R_4' is not defined                      no-undef
+  326:34   warning  'sphere_R_5' is not defined                      no-undef
+  375:5    warning  'sphere_R_T' is not defined                      no-undef
+  375:18   warning  'sphere_R_2' is not defined                      no-undef
+  375:31   warning  'sphere_R_3' is not defined                      no-undef
+  375:44   warning  'sphere_R_4' is not defined                      no-undef
+  375:57   warning  'sphere_R_5' is not defined                      no-undef
+  376:5    warning  'Q_sphere' is not defined                        no-undef
+  376:17   warning  't1_sphere_temp' is not defined                  no-undef
+  376:34   warning  't2' is not defined                              no-undef
+  376:40   warning  'sphere_R_T' is not defined                      no-undef
+  377:5    warning  'T_s_sphere' is not defined                      no-undef
+  377:19   warning  'Q_sphere' is not defined                        no-undef
+  377:30   warning  'sphere_R_5' is not defined                      no-undef
+  377:44   warning  't2' is not defined                              no-undef
+  378:5    warning  'maindiv' is not defined                         no-undef
+  379:5    warning  'hide_all_steps' is not defined                  no-undef
+  380:24   warning  'show_step' is not defined                       no-undef
+  381:24   warning  'MathJax' is not defined                         no-undef
+  383:10   warning  'verify2_sol6' is defined but never used         no-unused-vars
+  385:26   warning  'Q_sphere' is not defined                        no-undef
+  385:48   warning  'T_s_sphere' is not defined                      no-undef
+  390:10   warning  'verify_values' is not defined                   no-undef
+  390:48   warning  'Q_sphere' is not defined                        no-undef
+  394:10   warning  'verify_values' is not defined                   no-undef
+  394:48   warning  'T_s_sphere' is not defined                      no-undef
+  400:25   warning  'Q_sphere' is not defined                        no-undef
+  402:25   warning  'T_s_sphere' is not defined                      no-undef
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/js/activity3.js
+    1:10   warning  'activity3' is defined but never used        no-unused-vars
+    9:85   warning  'alpha3' is not defined                      no-undef
+   16:5    warning  'maindiv' is not defined                     no-undef
+   17:24   warning  'MathJax' is not defined                     no-undef
+   20:10   warning  'start_act3' is defined but never used       no-unused-vars
+   25:20   warning  'get_collapse_btn_text' is not defined       no-undef
+   30:45   warning  'thickness' is not defined                   no-undef
+   30:68   warning  'len' is not defined                         no-undef
+   30:87   warning  'height' is not defined                      no-undef
+   30:148  warning  'left_temp' is not defined                   no-undef
+   30:185  warning  'right_temp' is not defined                  no-undef
+   41:37   warning  'k_0' is not defined                         no-undef
+   41:100  warning  'alpha3' is not defined                      no-undef
+   45:43   warning  'x' is not defined                           no-undef
+   55:5    warning  'maindiv' is not defined                     no-undef
+   56:5    warning  'hide_all_steps' is not defined              no-undef
+   57:24   warning  'show_step' is not defined                   no-undef
+   58:24   warning  'MathJax' is not defined                     no-undef
+   61:10   warning  'calculate_at_x3' is defined but never used  no-unused-vars
+   62:20   warning  'get_collapse_btn_text' is not defined       no-undef
+   68:45   warning  'x' is not defined                           no-undef
+   68:55   warning  'x' is not defined                           no-undef
+   68:87   warning  'thickness' is not defined                   no-undef
+   68:105  warning  'thickness' is not defined                   no-undef
+  139:5    warning  'maindiv' is not defined                     no-undef
+  140:5    warning  'hide_all_steps' is not defined              no-undef
+  141:24   warning  'show_step' is not defined                   no-undef
+  142:24   warning  'MathJax' is not defined                     no-undef
+  146:5    warning  'c3' is not defined                          no-undef
+  146:16   warning  'thickness' is not defined                   no-undef
+  146:42   warning  'alpha3' is not defined                      no-undef
+  146:57   warning  'left_temp' is not defined                   no-undef
+  146:69   warning  'right_temp' is not defined                  no-undef
+  146:85   warning  'left_temp' is not defined                   no-undef
+  146:97   warning  'right_temp' is not defined                  no-undef
+  147:5    warning  'a3' is not defined                          no-undef
+  147:10   warning  'left_temp' is not defined                   no-undef
+  147:32   warning  'left_temp' is not defined                   no-undef
+  147:50   warning  'alpha3' is not defined                      no-undef
+  148:5    warning  't_x3' is not defined                        no-undef
+  148:38   warning  'alpha3' is not defined                      no-undef
+  148:53   warning  'c3' is not defined                          no-undef
+  148:59   warning  'x' is not defined                           no-undef
+  148:70   warning  'a3' is not defined                          no-undef
+  148:85   warning  'alpha3' is not defined                      no-undef
+  149:24   warning  'c3' is not defined                          no-undef
+  149:35   warning  'a3' is not defined                          no-undef
+  149:47   warning  't_x3' is not defined                        no-undef
+  151:10   warning  'verify03' is defined but never used         no-unused-vars
+  153:24   warning  'c3' is not defined                          no-undef
+  153:35   warning  'a3' is not defined                          no-undef
+  153:47   warning  't_x3' is not defined                        no-undef
+  158:10   warning  'verify_values' is not defined               no-undef
+  158:48   warning  'c3' is not defined                          no-undef
+  162:10   warning  'verify_values' is not defined               no-undef
+  162:48   warning  't_x3' is not defined                        no-undef
+  168:25   warning  'c3' is not defined                          no-undef
+  170:25   warning  't_x3' is not defined                        no-undef
+  173:5    warning  'start_act4' is not defined                  no-undef
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/js/activity4.js
+   1:10  warning  'start_act4' is defined but never used     no-unused-vars
+   2:20  warning  'get_collapse_btn_text' is not defined     no-undef
+  11:5   warning  'maindiv' is not defined                   no-undef
+  13:9   warning  'show_step' is not defined                 no-undef
+  17:24  warning  'MathJax' is not defined                   no-undef
+  19:10  warning  'load_x_values' is defined but never used  no-unused-vars
+  21:5   warning  'tab4_x' is not defined                    no-undef
+  22:35  warning  'alpha' is not defined                     no-undef
+  22:49  warning  'a' is not defined                         no-undef
+  22:63  warning  'alpha' is not defined                     no-undef
+  23:9   warning  't_x' is not defined                       no-undef
+  24:35  warning  'alpha' is not defined                     no-undef
+  24:49  warning  'c' is not defined                         no-undef
+  24:66  warning  'a' is not defined                         no-undef
+  24:80  warning  'alpha' is not defined                     no-undef
+  26:5   warning  'tab4_x' is not defined                    no-undef
+  27:9   warning  'a2' is not defined                        no-undef
+  28:9   warning  't_x2' is not defined                      no-undef
+  29:9   warning  'a2' is not defined                        no-undef
+  29:14  warning  'c2' is not defined                        no-undef
+  31:5   warning  'tab4_x' is not defined                    no-undef
+  32:35  warning  'alpha3' is not defined                    no-undef
+  32:50  warning  'a3' is not defined                        no-undef
+  32:65  warning  'alpha3' is not defined                    no-undef
+  33:9   warning  't_x3' is not defined                      no-undef
+  34:35  warning  'alpha3' is not defined                    no-undef
+  34:50  warning  'c3' is not defined                        no-undef
+  34:68  warning  'a3' is not defined                        no-undef
+  34:83  warning  'alpha3' is not defined                    no-undef
+  47:21  warning  'Chart' is not defined                     no-undef
+  50:21  warning  'tab4_y' is not defined                    no-undef
+  53:39  warning  'alpha' is not defined                     no-undef
+  54:27  warning  'tab4_x' is not defined                    no-undef
+  61:39  warning  'alpha2' is not defined                    no-undef
+  62:27  warning  'tab4_x' is not defined                    no-undef
+  69:39  warning  'alpha3' is not defined                    no-undef
+  70:27  warning  'tab4_x' is not defined                    no-undef
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/js/data.js
+   2:5  warning  'thickness' is assigned a value but never used                       no-unused-vars
+   3:5  warning  'len' is assigned a value but never used                             no-unused-vars
+   4:5  warning  'height' is assigned a value but never used                          no-unused-vars
+   5:5  warning  'left_temp' is assigned a value but never used                       no-unused-vars
+   6:5  warning  'right_temp' is assigned a value but never used                      no-unused-vars
+   7:5  warning  'k_0' is assigned a value but never used                             no-unused-vars
+   9:5  warning  'alpha' is assigned a value but never used                           no-unused-vars
+  10:5  warning  'alpha2' is assigned a value but never used                          no-unused-vars
+  11:5  warning  'alpha3' is assigned a value but never used                          no-unused-vars
+  12:5  warning  'x' is assigned a value but never used                               no-unused-vars
+  14:5  warning  'c' is assigned a value but never used                               no-unused-vars
+  15:5  warning  't_x' is assigned a value but never used                             no-unused-vars
+  16:5  warning  'a' is assigned a value but never used                               no-unused-vars
+  18:5  warning  'c2' is assigned a value but never used                              no-unused-vars
+  19:5  warning  't_x2' is assigned a value but never used                            no-unused-vars
+  20:5  warning  'a2' is assigned a value but never used                              no-unused-vars
+  22:5  warning  'c3' is assigned a value but never used                              no-unused-vars
+  23:5  warning  't_x3' is assigned a value but never used                            no-unused-vars
+  24:5  warning  'a3' is assigned a value but never used                              no-unused-vars
+  26:5  warning  'tab4_y' is assigned a value but never used                          no-unused-vars
+  27:5  warning  'tab4_x' is assigned a value but never used                          no-unused-vars
+  45:5  warning  't1_pipe_temp' is assigned a value but never used                    no-unused-vars
+  46:5  warning  'inside_diameter_pipe' is assigned a value but never used            no-unused-vars
+  47:5  warning  'k_steel' is assigned a value but never used                         no-unused-vars
+  48:5  warning  'thickness_pipe' is assigned a value but never used                  no-unused-vars
+  49:5  warning  'pipe_length' is assigned a value but never used                     no-unused-vars
+  50:5  warning  'pipe_insulator1_thickness' is assigned a value but never used       no-unused-vars
+  51:5  warning  'pipe_insulator2_thickness' is assigned a value but never used       no-unused-vars
+  52:5  warning  'pipe_insulator1_conductivity' is assigned a value but never used    no-unused-vars
+  53:5  warning  'pipe_insulator2_conductivity' is assigned a value but never used    no-unused-vars
+  54:5  warning  'inside_htc_pipe' is assigned a value but never used                 no-unused-vars
+  55:5  warning  'outside_htc_pipe' is assigned a value but never used                no-unused-vars
+  56:5  warning  't2' is assigned a value but never used                              no-unused-vars
+  58:5  warning  'pipe_R_1' is assigned a value but never used                        no-unused-vars
+  59:5  warning  'pipe_r_1' is assigned a value but never used                        no-unused-vars
+  60:5  warning  'pipe_R_2' is assigned a value but never used                        no-unused-vars
+  61:5  warning  'pipe_r_2' is assigned a value but never used                        no-unused-vars
+  62:5  warning  'pipe_R_3' is assigned a value but never used                        no-unused-vars
+  63:5  warning  'pipe_r_3' is assigned a value but never used                        no-unused-vars
+  64:5  warning  'pipe_R_4' is assigned a value but never used                        no-unused-vars
+  65:5  warning  'pipe_r_4' is assigned a value but never used                        no-unused-vars
+  66:5  warning  'pipe_R_5' is assigned a value but never used                        no-unused-vars
+  67:5  warning  'pipe_r_5' is assigned a value but never used                        no-unused-vars
+  68:5  warning  'pipe_R_T' is assigned a value but never used                        no-unused-vars
+  69:5  warning  'Q_pipe' is assigned a value but never used                          no-unused-vars
+  70:5  warning  'T_s_pipe' is assigned a value but never used                        no-unused-vars
+  72:5  warning  't1_sphere_temp' is assigned a value but never used                  no-unused-vars
+  74:5  warning  'k_sphere' is assigned a value but never used                        no-unused-vars
+  75:5  warning  'thickness_sphere' is assigned a value but never used                no-unused-vars
+  76:5  warning  'sphere_length' is assigned a value but never used                   no-unused-vars
+  77:5  warning  'sphere_insulator1_thickness' is assigned a value but never used     no-unused-vars
+  78:5  warning  'sphere_insulator2_thickness' is assigned a value but never used     no-unused-vars
+  79:5  warning  'sphere_insulator1_conductivity' is assigned a value but never used  no-unused-vars
+  80:5  warning  'sphere_insulator2_conductivity' is assigned a value but never used  no-unused-vars
+  81:5  warning  'inside_htc_sphere' is assigned a value but never used               no-unused-vars
+  82:5  warning  'outside_htc_sphere' is assigned a value but never used              no-unused-vars
+  84:5  warning  'sphere_R_1' is assigned a value but never used                      no-unused-vars
+  85:5  warning  'sphere_r_1' is assigned a value but never used                      no-unused-vars
+  86:5  warning  'sphere_R_2' is assigned a value but never used                      no-unused-vars
+  87:5  warning  'sphere_r_2' is assigned a value but never used                      no-unused-vars
+  88:5  warning  'sphere_R_3' is assigned a value but never used                      no-unused-vars
+  89:5  warning  'sphere_r_3' is assigned a value but never used                      no-unused-vars
+  90:5  warning  'sphere_R_4' is assigned a value but never used                      no-unused-vars
+  91:5  warning  'sphere_r_4' is assigned a value but never used                      no-unused-vars
+  92:5  warning  'sphere_R_5' is assigned a value but never used                      no-unused-vars
+  93:5  warning  'sphere_r_5' is assigned a value but never used                      no-unused-vars
+  94:5  warning  'sphere_R_T' is assigned a value but never used                      no-unused-vars
+  95:5  warning  'Q_sphere' is assigned a value but never used                        no-unused-vars
+  96:5  warning  'T_s_sphere' is assigned a value but never used                      no-unused-vars
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/js/gauss_ele.js
+  42:10  warning  'gauss_ele' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-conduction-composite-iitb/exp-conduction-composite-iitb/experiment/simulation/js/trap.js
+   4:10  warning  'generate_data' is defined but never used  no-unused-vars
+  13:10  warning  'trap' is defined but never used           no-unused-vars
+  21:10  warning  'sim1by3' is defined but never used        no-unused-vars
+  29:10  warning  'sim3by8' is defined but never used        no-unused-vars
+
+✖ 478 problems (0 errors, 478 warnings)
+
